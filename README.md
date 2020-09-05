@@ -1,6 +1,6 @@
 # Hi. I'm Rob.
 
-I work as a senior iOS Engineer @ Capital One UK and a mobile accessibility specialist.
+I work as a senior iOS Engineer @ Capital One UK and I'm a mobile accessibility specialist.
 (He/Him)
 
 ### TLDR
@@ -18,7 +18,7 @@ I work as a senior iOS Engineer @ Capital One UK and a mobile accessibility spec
 * User experience
 * Testing
 
-## Non-tech interests
+## Non-tech Interests
 
 * Hiking
 * Nature
