@@ -1,6 +1,6 @@
 # Hi. I'm Rob.
 
-I work as a senior iOS Engineer @ Capital One UK and I'm a mobile accessibility specialist.
+I work as a senior iOS Engineer @ Cuvva, previously Capital One, and I'm a mobile accessibility specialist.
 (He/Him)
 
 ### TLDR
@@ -37,13 +37,12 @@ I work as a senior iOS Engineer @ Capital One UK and I'm a mobile accessibility 
 I'm not looking for anything new right now, but I'd be interested in hearing from you if the role
 * Is for a mobile accessibility specialist but I still get to do coding
 * Is for Lego
-* Is in the Vancouver, BC area and you'll help me relocate
 
 ## Writing
 
 * I mainly blog at [MobileA11y.com](https://mobilea11y.com) about mobile accessibility
 * Wrote a book [Developing Inclusive Mobile Apps: Building Accessible Apps for iOS and Android](https://www.apress.com/gp/book/9781484258132) published by Apress
-* I occasionally write on [Medium](https://medium.com/@r.whitaker) and [my blog](https://rwapp.co.uk)
+* I occasionally write on [Medium](https://medium.com/@r.whitaker)
 
 Here's a selection of my favorite/most popular blogs
 
@@ -52,9 +51,6 @@ Here's a selection of my favorite/most popular blogs
 
 * [Writing Great iOS Accessibility Labels](https://mobilea11y.com/blog/writing-great-labels/)<br />
     This is part of a series on iOS accessibility labels, this part gives you all the tips you need to write the most useful labels you can.
-
-* [You Don’t Need to Be Good at Maths to Make Software](https://rwapp.co.uk/2020/02/25/Dont-Need-Maths/)<br />
-    About how I thought I couldn't be a software engineer because I suck at maths.
 
 * [Baking Digital Inclusion Into Your Mobile Apps](https://medium.com/capital-one-tech/baking-digital-inclusion-accessibility-into-your-mobile-apps-f0f5d03d9f49)<br />
     Why making accessibility part of your regular development flow is the right thing to do, for [Capital One Tech](https://medium.com/capital-one-tech)
@@ -69,9 +65,17 @@ I'm available to speak and run workshops on mobile accessibility, if that fits i
 
 ### Upcoming
 
-Lol
+I have some talks to announce soon...
 
 ### Past
+
+* Identifying & Fixing iOS Accessibility Issues<br />
+    Remote workshop<br />
+    June 2021
+    
+* Mobile Accessibility Testing Tools<br />
+    Remote talk held for [Funka](https://www.funka.com/en/)<br />
+    May 2021
 
 * Accessibility in Mobile<br />
     Remote workshop held for [Ecosia](https://www.ecosia.org)<br />
@@ -122,6 +126,7 @@ Lol
 
 I love talking about mobile accessibility get in touch if you think your listeners would like to know more.
 
+* [AppForce1: Rob Whitaker accessibilty author and workshop host](https://appforce1.net/podcast/shownotes/?episode=Rob+Whitaker+accessibilty+author+and+workshop+host)
 * [Parallel 30: It's Like Playing Jazz](https://www.relay.fm/parallel/30)
 * [iPhreaks 274: iOS Accessibility with Rob Whitaker](https://devchat.tv/iphreaks/ips-274-ios-accessibility-with-rob-whitaker/)
 
