@@ -65,7 +65,9 @@ I'm available to speak and run workshops on mobile accessibility, if that fits i
 
 ### Upcoming
 
-I have some talks to announce soon...
+* Next level accessibility<br />
+    Remote talk for [Sydney CocoaHeads](https://www.meetup.com/sydneycocoaheads/events/hhtqwrydchbzb/)
+    19th May 2022
 
 ### Past
 
