@@ -67,6 +67,7 @@ I'm available to speak and run workshops on mobile accessibility, if that fits i
 
 * Identifying & Fixing iOS Accessibility Issues<br />
     Workshop for [iOSDevUK](https://www.iosdevuk.com/speakers)<br />
+    Aberystwyth, Wales<br />
     September 2022
 
 ### Past
