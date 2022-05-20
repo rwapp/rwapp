@@ -65,11 +65,31 @@ I'm available to speak and run workshops on mobile accessibility, if that fits i
 
 ### Upcoming
 
-* Next level accessibility<br />
-    Remote talk for [Sydney CocoaHeads](https://www.meetup.com/sydneycocoaheads/events/hhtqwrydchbzb/)
-    19th May 2022
+* Identifying & Fixing iOS Accessibility Issues<br />
+    Workshop for [iOSDevUK](https://www.iosdevuk.com/speakers)<br />
+    September 2022
 
 ### Past
+
+* Mobile Accessibility Testing<br />
+    Remote talk/workshop for [Spotify](https://www.spotify.com/)<br />
+    May 2022
+
+* Next level accessibility<br />
+    Remote workshop for [Try! Swift World](https://www.tryswift.co/world/)<br />
+    May 2022
+
+* Next level accessibility<br />
+    Remote talk for [Sydney CocoaHeads](https://www.meetup.com/sydneycocoaheads/)<br />
+    [Video](https://youtu.be/SKuWLHNHF28?t=6099)<br />
+    [slides](https://t.co/8wD4eGIR6w)
+    May 2022
+    
+* Next level accessibility<br />
+    Remote talk<br />
+    [Video](https://youtu.be/SKuWLHNHF28?t=6099)<br />
+    [slides](https://t.co/8wD4eGIR6w)
+    May 2022
 
 * Identifying & Fixing iOS Accessibility Issues<br />
     Remote workshop<br />
