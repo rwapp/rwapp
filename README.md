@@ -29,13 +29,13 @@ I work as a senior iOS Engineer @ Cuvva, previously Capital One, and I'm a mobil
 
 * Senior iOS Engineer
 * Self-taught career changer
-* Past experience on small contracts
+* Mobile accessibility consultant
 * My own apps are available in the [App Store](https://apps.apple.com/us/developer/rob-whitaker/id650521051)
 
 ### What's Next?
 
 I'm not looking for anything new right now, but I'd be interested in hearing from you if the role
-* Is for a mobile accessibility specialist but I still get to do coding
+* Is for a mobile accessibility specialist and I still get to do coding
 * Is for Lego
 
 ## Writing
