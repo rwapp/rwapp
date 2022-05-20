@@ -83,7 +83,7 @@ I'm available to speak and run workshops on mobile accessibility, if that fits i
 * Next Level iOS Accessibility<br />
     Remote talk for [Sydney CocoaHeads](https://www.meetup.com/sydneycocoaheads/)<br />
     [Video](https://youtu.be/SKuWLHNHF28?t=6099)<br />
-    [slides](https://t.co/8wD4eGIR6w)
+    [slides](https://t.co/8wD4eGIR6w)<br />
     May 2022<br />
     
 
