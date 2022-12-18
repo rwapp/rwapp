@@ -9,7 +9,7 @@ I work as a senior iOS Engineer @ Cuvva, previously Capital One, and I'm a mobil
 * [App Store](https://apps.apple.com/us/developer/rob-whitaker/id650521051)
 * [Blog](https://mobilea11y.com)
 * Email: [rw@rwapp.co.uk](mailto:rw@rwapp.co.uk)
-* Twitter: [RobRWAPP](https://twitter.com/RobRWAPP)
+* Mastodon: [@RobW@iosdev.space](https://iosdev.space/@RobW)
 
 ## Tech Interests
 
@@ -65,12 +65,24 @@ I'm available to speak and run workshops on mobile accessibility, if that fits i
 
 ### Upcoming
 
+
+
+### Past
+
+* Mobile Accessibility Testing: Making it effective and efficient for everyone<br />
+    Remote talk for [A11yCamp](https://a11ycamp.org.au/speakers-and-presentations-2022/)<br />
+    [Video](https://www.youtube.com/watch?app=desktop&v=VcJ6re3Hro4)<br />
+    November 2022
+
 * Identifying & Fixing iOS Accessibility Issues<br />
     Workshop for [iOSDevUK](https://www.iosdevuk.com/speakers)<br />
     Aberystwyth, Wales<br />
     September 2022
-
-### Past
+    
+* Identifying & Fixing iOS Accessibility Issues<br />
+    Workshop for [360iDev](https://360idev.com/session/identifying-and-fixing-ios-accessibility-issues/)<br />
+    Aberystwyth, Wales<br />
+    September 2022
 
 * Mobile Accessibility Testing<br />
     Remote talk/workshop for [Spotify](https://www.spotify.com/)<br />
@@ -163,6 +175,5 @@ I love talking about mobile accessibility get in touch if you think your listene
 
 ## Contact
 
-* Twitter: [RobRWAPP](https://twitter.com/RobRWAPP)
 * Email: [rw@rwapp.co.uk](mailto:rw@rwapp.co.uk)
 * [Linkedin](https://www.linkedin.com/in/rob-whitaker/)
