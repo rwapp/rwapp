@@ -81,7 +81,7 @@ I'm available to speak and run workshops on mobile accessibility, if that fits i
     
 * Identifying & Fixing iOS Accessibility Issues<br />
     Workshop for [360iDev](https://360idev.com/session/identifying-and-fixing-ios-accessibility-issues/)<br />
-    Aberystwyth, Wales<br />
+    Denver, Colorado<br />
     September 2022
 
 * Mobile Accessibility Testing<br />
