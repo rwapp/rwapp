@@ -163,14 +163,17 @@ I love talking about mobile accessibility get in touch if you think your listene
 
 ## Projects
 
+* [Dynamic Type](https://apps.apple.com/gb/app/dynamic-type/id1644772082)<br />
+    Developer and designer reference details for iOS' dynamic type system for scaling text.
+
 * [A11yUITests](https://github.com/rwapp/A11yUITests)<br />
-    An extension for `XCTestCase` to add common accessibility checks to XCUITests
+    An extension for `XCTestCase` to add common accessibility checks to XCUITests.
 
 * [A11y Box Android](https://github.com/rwapp/A11y-Box-Android)<br />
-    An app highlighting the Android accessibility APIs
+    An app highlighting the Android accessibility APIs.
 
 * [A11y Box iOS](https://github.com/rwapp/A11y-Box-iOS)<br />
-    An app highlighting the iOS accessibility APIs 
+    An app highlighting the iOS accessibility APIs.
 
 
 ## Contact
