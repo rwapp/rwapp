@@ -156,6 +156,7 @@ I'm available to speak and run workshops on mobile accessibility, if that fits i
 
 I love talking about mobile accessibility get in touch if you think your listeners would like to know more.
 
+* [The Engineering Leader: Rob Whitaker on Developing Inclusive Mobile Apps](https://www.theengineeringleader.com/1946930/10697607-rob-whitaker-on-developing-inclusive-mobile-apps)
 * [AppForce1: Rob Whitaker accessibilty author and workshop host](https://appforce1.net/podcast/shownotes/?episode=Rob+Whitaker+accessibilty+author+and+workshop+host)
 * [Parallel 30: It's Like Playing Jazz](https://www.relay.fm/parallel/30)
 * [iPhreaks 274: iOS Accessibility with Rob Whitaker](https://devchat.tv/iphreaks/ips-274-ios-accessibility-with-rob-whitaker/)
