@@ -1,10 +1,11 @@
 # Hi. I'm Rob.
 
-I work as a senior iOS Engineer @ Cuvva, previously Capital One, and I'm a mobile accessibility specialist.
+I'm a native Mac/iOS accessibility specialist and senior iOS Engineer. Previously at Cuvva and Capital One.
 (He/Him)
 
 ### TLDR
 
+None of this is currently updated.
 * [Book](https://www.apress.com/gp/book/9781484258132)
 * [App Store](https://apps.apple.com/us/developer/rob-whitaker/id650521051)
 * [Blog](https://mobilea11y.com)
@@ -30,19 +31,16 @@ I work as a senior iOS Engineer @ Cuvva, previously Capital One, and I'm a mobil
 * Senior iOS Engineer
 * Self-taught career changer
 * Mobile accessibility consultant
-* My own apps are available in the [App Store](https://apps.apple.com/us/developer/rob-whitaker/id650521051)
 
 ### What's Next?
 
-I'm not looking for anything new right now, but I'd be interested in hearing from you if the role
-* Is for a mobile accessibility specialist and I still get to do coding
-* Is for Lego
+Please get in touch if you have an opening to work on iOS at The Lego Group.
 
 ## Writing
 
-* I mainly blog at [MobileA11y.com](https://mobilea11y.com) about mobile accessibility
+* I used to blog at [MobileA11y.com](https://mobilea11y.com) about mobile accessibility
 * Wrote a book [Developing Inclusive Mobile Apps: Building Accessible Apps for iOS and Android](https://www.apress.com/gp/book/9781484258132) published by Apress
-* I occasionally write on [Medium](https://medium.com/@r.whitaker)
+* A selection of old blogs is available on [Medium](https://medium.com/@r.whitaker)
 
 Here's a selection of my favorite/most popular blogs
 
@@ -61,11 +59,9 @@ Here's a selection of my favorite/most popular blogs
 
 ## Speaking & Workshops
 
-I'm available to speak and run workshops on mobile accessibility, if that fits in with your conference or org, hmu.
-
 ### Upcoming
 
-
+I'm not currently taking bookings for further speaking/training engagements.
 
 ### Past
 
@@ -164,8 +160,7 @@ I love talking about mobile accessibility get in touch if you think your listene
 
 ## Projects
 
-* [Dynamic Type](https://apps.apple.com/gb/app/dynamic-type/id1644772082)<br />
-    Developer and designer reference details for iOS' dynamic type system for scaling text.
+Some old projects I've worked on, none of these are currently maintained.
 
 * [A11yUITests](https://github.com/rwapp/A11yUITests)<br />
     An extension for `XCTestCase` to add common accessibility checks to XCUITests.
