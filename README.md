@@ -1,13 +1,11 @@
 # Hi. I'm Rob.
 
-I'm a native Mac/iOS accessibility specialist and senior iOS Engineer. Previously at Cuvva and Capital One.
+I'm a senior iOS Engineer and native Mac and iOS accessibility specialist. Currently I'm working on macOS and iOS accessibility at Apple. Previous I've worked iOS at Cuvva and Capital One and accessibility at [Reveal](https://revealapp.com) and many others.
 (He/Him)
 
 ### TLDR
 
-None of this is currently updated.
 * [Book](https://www.apress.com/gp/book/9781484258132)
-* [App Store](https://apps.apple.com/us/developer/rob-whitaker/id650521051)
 * [Blog](https://mobilea11y.com)
 * Email: [rw@rwapp.co.uk](mailto:rw@rwapp.co.uk)
 * Mastodon: [@RobW@iosdev.space](https://iosdev.space/@RobW)
@@ -30,11 +28,14 @@ None of this is currently updated.
 
 * Senior iOS Engineer
 * Self-taught career changer
-* Mobile accessibility consultant
+* Mobile accessibility specialist
+* Author: [Developing Inclusive Mobile Apps: Building Accessible Apps for iOS and Android](https://www.apress.com/gp/book/9781484258132) published by Apress, 2020
+* Invited Expert [W3C Mobile Accessibility Task Force](https://www.w3.org/WAI/about/groups/task-forces/matf/)
+
 
 ### What's Next?
 
-Please get in touch if you have an opening to work on iOS at The Lego Group.
+I'm currently looking for something new in either iOS engineering or native mobile accessibility. If you think I can help you out please let me know - [rw@rwapp.co.uk](mailto:rw@rwapp.co.uk)
 
 ## Writing
 
@@ -61,7 +62,23 @@ Here's a selection of my favorite/most popular blogs
 
 ### Upcoming
 
-I'm not currently taking bookings for further speaking/training engagements.
+* From Zero to accessible - Making your app accessible from the ground up<br />
+    Interactive workshop at [ARCTIC](https://arcticonference.com/workshop/accessibility/) conference<br />
+    Oulu, Finland
+    Wednesday, 12th March 2025
+  
+* Touch-Free Touch Screens<br />
+   Talk at [APPDEVCON]([https://arcticonference.com/](https://appdevcon.nl/session/touch-free-touch-screens/)) conference<br />
+    Folkstone, UK<br />
+    Friday, 21st March 2025
+
+  * From Zero to accessible - Making your app accessible from the ground up<br />
+    Interactive workshop at [SwiftCraft]((https://swiftcraft.uk/2025/session/from-zero-to-accessible-making-your-app-accessible-from-the-ground-up) conference<br />
+    Amsterdam, Netherlands<br />
+    Wednesday, 12th March 2025
+
+If you think your confernce, meetup, or organisation could benefit from a talk or workshop on mobile accessibility, please contact me at [rw@rwapp.co.uk](mailto:rw@rwapp.co.uk)
+
 
 ### Past
 
@@ -94,7 +111,6 @@ I'm not currently taking bookings for further speaking/training engagements.
     [slides](https://t.co/8wD4eGIR6w)<br />
     May 2022<br />
     
-
 * Identifying & Fixing iOS Accessibility Issues<br />
     Remote workshop<br />
     June 2021
@@ -152,6 +168,7 @@ I'm not currently taking bookings for further speaking/training engagements.
 
 I love talking about mobile accessibility get in touch if you think your listeners would like to know more.
 
+* [Parallel 81: Tools and Tips for Mobile App Developers](https://www.relay.fm/parallel/81)
 * [The Engineering Leader: Rob Whitaker on Developing Inclusive Mobile Apps](https://www.theengineeringleader.com/1946930/10697607-rob-whitaker-on-developing-inclusive-mobile-apps)
 * [AppForce1: Rob Whitaker accessibilty author and workshop host](https://appforce1.net/podcast/shownotes/?episode=Rob+Whitaker+accessibilty+author+and+workshop+host)
 * [Parallel 30: It's Like Playing Jazz](https://www.relay.fm/parallel/30)
