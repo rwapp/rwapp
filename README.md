@@ -130,6 +130,10 @@ If you think your confernce, meetup, or organisation could benefit from a talk o
     August 2019
 
 * Accessibility Without the ‘V’ Word<br />
+    [NSLondon](https://nslondon.com)<br />
+    July 2019
+
+* Accessibility Without the ‘V’ Word<br />
     CodeMobile, Chester, England<br />
     [Video](https://www.youtube.com/watch?v=majvme8fMvE)<br />
     [Slides](https://mobilea11y.com/resources/Without-The-V-Word.key)<br />
