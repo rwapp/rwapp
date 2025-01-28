@@ -37,27 +37,6 @@ I'm a senior iOS Engineer and native Mac and iOS accessibility specialist. Curre
 
 I'm currently looking for something new in either iOS engineering or native mobile accessibility. If you think I can help you out please let me know - [rw@rwapp.co.uk](mailto:rw@rwapp.co.uk)
 
-## Writing
-
-* I used to blog at [MobileA11y.com](https://mobilea11y.com) about mobile accessibility
-* Wrote a book [Developing Inclusive Mobile Apps: Building Accessible Apps for iOS and Android](https://www.apress.com/gp/book/9781484258132) published by Apress
-* A selection of old blogs is available on [Medium](https://medium.com/@r.whitaker)
-
-Here's a selection of my favorite/most popular blogs
-
-* [SwiftUI Accessibility](https://mobilea11y.com/guides/swiftui/)<br />
-    A series of guides covering all  the accessibility APIs in SwiftUI.
-
-* [Writing Great iOS Accessibility Labels](https://mobilea11y.com/blog/writing-great-labels/)<br />
-    This is part of a series on iOS accessibility labels, this part gives you all the tips you need to write the most useful labels you can.
-
-* [Baking Digital Inclusion Into Your Mobile Apps](https://medium.com/capital-one-tech/baking-digital-inclusion-accessibility-into-your-mobile-apps-f0f5d03d9f49)<br />
-    Why making accessibility part of your regular development flow is the right thing to do, for [Capital One Tech](https://medium.com/capital-one-tech)
-
-* [Robot Pattern Testing for XCUITest](https://medium.com/capital-one-tech/robot-pattern-testing-for-xcuitest-4c2f0c40b4ad)<br />
-    Using the Robot pattern for writing composable UI tests for iOS, for [Capital One Tech](https://medium.com/capital-one-tech)
-
-
 ## Speaking & Workshops
 
 ### Upcoming
@@ -68,14 +47,15 @@ Here's a selection of my favorite/most popular blogs
     Wednesday, 12th March 2025
   
 * Touch-Free Touch Screens<br />
-   Talk at [APPDEVCON]([https://arcticonference.com/](https://appdevcon.nl/session/touch-free-touch-screens/)) conference<br />
-    Folkstone, UK<br />
+   Talk at [APPDEVCON](https://appdevcon.nl/session/touch-free-touch-screens/) conference<br />
+    Amsterdam, Netherlands<br />
     Friday, 21st March 2025
 
-  * From Zero to accessible - Making your app accessible from the ground up<br />
-    Interactive workshop at [SwiftCraft]((https://swiftcraft.uk/2025/session/from-zero-to-accessible-making-your-app-accessible-from-the-ground-up) conference<br />
-    Amsterdam, Netherlands<br />
-    Wednesday, 12th March 2025
+
+* From Zero to accessible - Making your app accessible from the ground up<br />
+    Interactive workshop at [SwiftCraft](https://swiftcraft.uk/2025/session/from-zero-to-accessible-making-your-app-accessible-from-the-ground-up) conference<br />
+    Folkstone, UK<br />
+    Monday, 19th May 2025
 
 If you think your confernce, meetup, or organisation could benefit from a talk or workshop on mobile accessibility, please contact me at [rw@rwapp.co.uk](mailto:rw@rwapp.co.uk)
 
@@ -162,6 +142,26 @@ If you think your confernce, meetup, or organisation could benefit from a talk o
 * A Swift Testing Journey<br />
     [iOSDevUK](https://www.iosdevuk.com), Aberystwyth, Wales<br />
     September 2018
+
+## Writing
+
+* I used to blog at [MobileA11y.com](https://mobilea11y.com) about mobile accessibility
+* Wrote a book [Developing Inclusive Mobile Apps: Building Accessible Apps for iOS and Android](https://www.apress.com/gp/book/9781484258132) published by Apress
+* A selection of old blogs is available on [Medium](https://medium.com/@r.whitaker)
+
+Here's a selection of my favorite/most popular blogs
+
+* [SwiftUI Accessibility](https://mobilea11y.com/guides/swiftui/)<br />
+    A series of guides covering all  the accessibility APIs in SwiftUI.
+
+* [Writing Great iOS Accessibility Labels](https://mobilea11y.com/blog/writing-great-labels/)<br />
+    This is part of a series on iOS accessibility labels, this part gives you all the tips you need to write the most useful labels you can.
+
+* [Baking Digital Inclusion Into Your Mobile Apps](https://medium.com/capital-one-tech/baking-digital-inclusion-accessibility-into-your-mobile-apps-f0f5d03d9f49)<br />
+    Why making accessibility part of your regular development flow is the right thing to do, for [Capital One Tech](https://medium.com/capital-one-tech)
+
+* [Robot Pattern Testing for XCUITest](https://medium.com/capital-one-tech/robot-pattern-testing-for-xcuitest-4c2f0c40b4ad)<br />
+    Using the Robot pattern for writing composable UI tests for iOS, for [Capital One Tech](https://medium.com/capital-one-tech)
 
 
 ## Podcasts
