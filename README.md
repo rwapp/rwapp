@@ -1,6 +1,6 @@
 # Hi. I'm Rob.
 
-I'm a senior iOS Engineer and native Mac and iOS accessibility specialist. Currently I'm working on macOS and iOS accessibility at Apple. Previous I've worked iOS at Cuvva and Capital One and accessibility at [Reveal](https://revealapp.com) and many others.
+I'm a senior iOS Engineer and native Mac and iOS accessibility specialist. I've Previously worked iOS at Cuvva and Capital One and accessibility at Apple and [Reveal](https://revealapp.com) and many others.
 (He/Him)
 
 ### TLDR
