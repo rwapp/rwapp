@@ -41,15 +41,16 @@ I'm currently looking for something new in either iOS engineering or native mobi
 
 ### Upcoming
 
-* From Zero to accessible - Making your app accessible from the ground up<br />
-    Interactive workshop at [ARCTIC](https://arcticonference.com/workshop/accessibility/) conference<br />
-    Oulu, Finland
-    Wednesday, 12th March 2025
+* Touch-Free Touch Screens<br />
+   Talk at [NSLondon](https://nslondon.com)<br />
+   London<br />
+   Wednesday 26th March 2025
+
   
 * Touch-Free Touch Screens<br />
-   Talk at [APPDEVCON](https://appdevcon.nl/session/touch-free-touch-screens/) conference<br />
-    Amsterdam, Netherlands<br />
-    Friday, 21st March 2025
+   Talk at [iOSKonf](https://www.ioskonf.mk) conference<br />
+    Skopje, North Macedonia<br />
+    Wednesday, 14th May 2025
 
 
 * From Zero to accessible - Making your app accessible from the ground up<br />
@@ -61,6 +62,16 @@ If you think your confernce, meetup, or organisation could benefit from a talk o
 
 
 ### Past
+
+* From Zero to accessible - Making your app accessible from the ground up<br />
+    Interactive workshop at [ARCTIC](https://arcticonference.com/workshop/accessibility/) conference<br />
+    Oulu, Finland
+    March 2025
+  
+* Touch-Free Touch Screens<br />
+   Talk at [APPDEVCON](https://appdevcon.nl/session/touch-free-touch-screens/) conference<br />
+    Amsterdam, Netherlands<br />
+    March 2025
 
 * Mobile Accessibility Testing: Making it effective and efficient for everyone<br />
     Remote talk for [A11yCamp](https://a11ycamp.org.au/speakers-and-presentations-2022/)<br />
