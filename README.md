@@ -33,10 +33,6 @@ I'm a senior iOS Engineer and native Mac and iOS accessibility specialist. I've 
 * Invited Expert [W3C Mobile Accessibility Task Force](https://www.w3.org/WAI/about/groups/task-forces/matf/)
 
 
-### What's Next?
-
-I'm currently looking for something new in either iOS engineering or native mobile accessibility. If you think I can help you out please let me know - [rw@rwapp.co.uk](mailto:rw@rwapp.co.uk)
-
 ## Speaking & Workshops
 
 ### Upcoming
